@@ -13,7 +13,7 @@
     "@astrojs/solid-js": "^5.0.4",
     "@t3-oss/env-core": "workspace:*",
     "arktype": "^2.1.0",
-    "astro": "^5.1.9",
+    "astro": "^6.1.8",
     "solid-js": "^1.9.4"
   },
   "devDependencies": {
